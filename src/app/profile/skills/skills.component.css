@@ -1,0 +1,14 @@
+
+/* Professional Skills Style */
+.progress-container {
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+
+
+
+.progress-container .aos-animate {
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+

@@ -1,0 +1,27 @@
+
+/* Education Style */
+.cc-education .h5 {
+  margin-bottom: 0;
+}
+
+.cc-education .cc-education-header {
+  padding-top: 60px;
+  padding-right: 0;
+  text-align: center;
+  color: #fff;
+}
+
+/* Common Style */
+.section {
+  padding-bottom: 0;
+}
+
+.section {
+  padding: 70px 0;
+  position: relative;
+  background: #FFFFFF;
+}
+
+.section .row + .category {
+  margin-top: 15px;
+}
